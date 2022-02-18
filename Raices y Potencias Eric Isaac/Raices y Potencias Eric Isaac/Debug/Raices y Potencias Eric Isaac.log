@@ -1,0 +1,4 @@
+﻿  Raices y Potencias Eric Isaac.cpp
+C:\Users\DSI209\source\repos\Raices y Potencias Eric Isaac\Raices y Potencias Eric Isaac\Raices y Potencias Eric Isaac.cpp(42,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DSI209\source\repos\Raices y Potencias Eric Isaac\Raices y Potencias Eric Isaac\Raices y Potencias Eric Isaac.cpp(44,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Raices y Potencias Eric Isaac.vcxproj -> C:\Users\DSI209\source\repos\Raices y Potencias Eric Isaac\Debug\Raices y Potencias Eric Isaac.exe
